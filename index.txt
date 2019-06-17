@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+		<meta name="description" content="Affordable Web Design for small and medium-sized companies.">
+		<meta name="author" content="Terry Gittos">
+		<title> 1-2-3 Web Design - Welcome </title>
+		<link rel="stylesheet" href="./css/font-awesome.min.css">
+		<link rel="stylesheet" href="./css/style.css">
+	</head>
+
+	<body>
+		<header>
+			<div class="container">
+				<div id="branding">
+					<h1><i class="fa fa-rocket"></i><span class="highlight"> 1-2-3 </span>Web Design</h1>
+				</div>
+				<nav>
+				<ul>
+					<li class="current"><a href="index.html">Home</a></li>
+					<li><a href="about.html">About</a></li>
+					<li><a href="services.html">Services</a></li>
+				</ul>
+				</nav>
+			</div>
+		</header>
+
+		<section id="showcase">
+			<div class="container">
+			<h1>Affordable Web Design for small and medium-sized companies.</h1>
+			<p> Tpye as much dummy text you want in here.</p>
+			<div>
+		</section>
+
+		<section id="newsletter">
+			<div class="container">
+				<h1>Get Our Newsletter</h1>
+				<form action="">
+					<input type="email" placeholder="Enter your email address ...">
+					<button type="submit" class="button_1"> Subscribe </button>
+				</form>
+			<div>
+		</section>
+
+		<section id="boxes">
+			<div class="container">
+				<div class="box">
+				<i class="fa fa-signal fa-5x"></i>
+				<h3>Grow Your Audience</h3>
+				<p>Take your website to the next level and group up beyond the space time continuum</p>
+				</div>
+				<div class="box">
+				<i class="fa fa-photo fa-5x"></i>
+				<h3>Modern Website Design</h3>
+				<p>Take your website to the next level and group up beyond the space time continuum</p>
+				</div>
+				<div class="box">
+				<i class="fa fa-cube fa-5x"></i>
+				<h3>Ultra Fast Hosting</h3>
+				<p>Take your website to the next level and group up beyond the space time continuum</p>
+				</div>
+			</div>
+		</section>
+
+		<footer>
+			<p>Real-TG Websites, Copyrighyt &copy; 2017</p>
+		</footer>
+	</body>
+
+</html>
+
+
+
+
